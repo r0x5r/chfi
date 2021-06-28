@@ -1,0 +1,123 @@
+
+Firewall:-
+---------------
+A firewall is first line of defense to protect IT infrastructure from any malicious attack. Firewalls broadly classified into two types: software and hardware firewall. Software Firewalls generally used in your personal desktops while hardware firewalls generally deployed at data centers and corporate offices. 
+
+
+List of Network Firewall Practices:-
+-----------------------------------------------------
+1. Default deny all network traffic and allow only ports and services which are required.
+2. Must have written organization’s security policy and implement the same while doing firewall configuration.
+3. Run the Firewall service as a unique user id instead of the administrator or root privilege.
+4. Change default passwords for firewall devices. Also, change it periodically and take care of password strength.
+5. Never rely on packet filtering. Use other filtering techniques to protect IT infrastructure from malicious attack.
+6. Filter packet based on source and destination addresses.
+7. Control physical access to the firewall. This is obvious but should be strictly followed.
+8. Patch the firewall’s operating system and application software to get the vendor’s specific update.
+9. Use network firewalls internally for segment networks. Also, implement a firewall to satisfy an organization’s security policy.
+10. Conduct security test against firewall regularly and correct it on any issue.
+11. Always use a secure remote syslog server. It helps to prevent manipulation of logs by a malicious attacker.
+12. Consider managed service provider for firewall management to get expertise in the field of firewall management services.
+13. Use change management practices for a network firewall. Document everything on changing any configuration.
+14. All desktops should run a personal firewall in the network. This act as an extra layer of security if your desktop or laptop using public wifi and more susceptible to attack.
+15. Regularly backup the firewall rule-base and configuration files in read-only backup devices.
+
+
+
+Windows Based Firewall:-
+---------------------------------------
+
+Software				Free Download Link
+----------------			--------------------------------
+Glasswire Firewall			https://www.glasswire.com/
+Mcafee Firewall			https://www.mcafee.com/en-in/antivirus/free.html
+Norton Firewall			https://in.norton.com/downloads
+AVS Firewall			https://onlinehelp.avs4you.com/avs-firewall/index.aspx
+ZoneAlarm Firewall			https://www.zonealarm.com/software/free-firewall
+Comodo Firewall			https://www.comodo.com/home/internet-security/firewall.php
+Firewall Security Management		https://www.solarwinds.com/security-event-manager/use-cases/firewall-security-management
+System Mechanic Ultimate Defense	https://www.iolo.com/downloads/
+Privatefirewall			https://www.softpedia.com/get/Security/Firewall/Privatefirewall.shtml
+TinyWall				https://tinywall.pados.hu/download.php
+
+
+Glasswire Firewall:-
+-----------------------------
+-->Detect malicious application on your system.
+-->Available for both Windows and Android.
+-->Detect spyware and malware.
+-->Display network data usage of different internet applications.
+-->Both free and paid versions available.
+-->Identify malicious RDP connections.
+-->List out all hardware devices connect to the same network and alert someone new join or leave.
+
+
+McAfee Firewall:-
+---------------------------
+-->Security event Log is available
+-->Block malicious application
+-->Report security vulnerabilities
+-->Offers various security levels
+-->Able to block ongoing and incoming traffic
+
+
+Norton Firewall:-
+--------------------------
+-->Able to detect suspicious traffic
+-->Port scan
+-->Block cybercriminals
+-->Monitor outbound communication
+
+
+AVS Firewall:-
+---------------------
+-->Parental control feature available
+-->Able to configure traffic rules
+-->Protect against malware and spyware
+-->Block feature available for malicious traffic	
+
+
+ZoneAlarm Firewall:-
+--------------------------------
+-->Block unwanted traffic
+-->Save personal and sensitive data on PC
+-->Protect inbound and outbound traffic
+-->Early boot protection mechanism
+-->Protect your PC against insecure wifi
+
+
+Comodo Firewall:-
+----------------------------
+-->Both free and paid firewall available
+-->Automatically detect viruses, malware and spyware
+
+
+Firewall Security Management:-
+-----------------------------------------------
+-->Support monitoring and configuration of firewall
+-->Mitigate threats based on firewall rules
+-->Detect security breaches
+-->Real time network graphs available
+
+
+System Mechanic Ultimate Defense:-
+------------------------------------------------------
+-->Able to manage passwords
+-->Detect malware and spyware
+-->Online privacy option available
+
+
+Privatefirewall:-
+------------------------
+-->Flexible but effective in the configuration of the firewall
+-->Custom security options available
+-->Email protection mechanism available
+-->Anomaly Detection feature to identify abnormal pattern of traffic
+
+
+TinyWall:-
+----------------
+-->Completely free
+-->lightweight and user friendly
+-->Configure firewall rules
+-->Tampering protection

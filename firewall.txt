@@ -1,0 +1,38 @@
+
+#-----------------------------------------------------------Installing Firewall in Linux-------------------------------------------------------#
+
+#apt-get install firewalld
+#firewall-cmd --list-all
+#firewall-cmd --add-service=http --permanent
+#firewall-cmd --reload
+#firewall-cmd --list-all
+#firewall-cmd --remove-service=http --permanent
+#firewall-cmd --reload
+#firewall-cmd --list-all
+#firewall-cmd --add-port=80/tcp
+#firewall-cmd --reload
+#firewall-cmd --list-all
+#firewall-cmd --add-port=80/tcp --permanent
+#firewall-cmd --reload
+#firewall-cmd --list-all
+#systemctl status apache2
+#systemctl enable --now apache2
+#systemctl status apache2
+#curl 127.0.0.1
+#firewall-cmd --add-service=http --permanent
+#firewall-cmd --reload
+#firewall-cmd --list-all
+#systemctl enable --now ssh
+#systemctl status ssh
+#firewall-cmd --reload
+#firewall-cmd --list-all
+#systemctl disable firewalld
+#systemctl status firewalld
+#service firewalld stop
+#
+
+
+
+
+
+
